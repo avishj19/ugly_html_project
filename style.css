@@ -1,0 +1,68 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    background-color: blue;
+    color: orange;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+}
+
+h2 {
+    color: white;
+    font-size: medium;
+}
+
+.list {
+    color: white;
+    font-family: 'Courier New';
+}
+
+#starters_image_div img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid blue;
+}
+
+.each_pokemon_container img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+}
+
+.pokemon_names {
+    color: white;
+    text-align: left;
+    font-family: 'Courier New';
+}
+
+.pokemon_description {
+    color: white;
+    text-align: left;
+    font-family: 'Courier New';
+}
+
+#bulbasaur_container {
+    border-radius: 25px;
+    border: solid green;
+    background-color: green;
+
+}
+
+#charmander_container {
+    border-radius: 25px;
+    border:solid orange;
+    background-color: orange;
+
+}
+
+#squirtle_container {
+    border-radius: 25px;
+    border: solid rgb(28, 184, 211);
+    background-color: rgb(28, 184, 211);
+}
